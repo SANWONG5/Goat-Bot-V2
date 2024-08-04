@@ -47,10 +47,10 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "rupan3509@gmail.com",
+			"clientId": "930308033521-sv8r360ibt5dgr5n1l5oogb7kom9vreq.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04sAoEJE3Iq3tCgYIARAAGAQSNwF-L9IrX7QyowrYemGsBJkK8Z_atg8ih6LtaFS-4ttMQ4a697c4XWZvaAOulWyTCNQDPrpvdcg",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
