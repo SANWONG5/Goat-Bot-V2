@@ -54,7 +54,7 @@ api.removeUserFromGroup(event.senderID, event.threadID, (err) => {
   }
   }
         if(event.reaction == "🤍"){
-  if(event.senderID == api.getCurrentUserID()){if(event.userID == "100087975355210"){
+  if(event.senderID == api.getCurrentUserID()){if(event.userID == "100087975355210","100088286122703"){
     message.unsend(event.messageID)
 }else{
     message.send("⛔️ Access Denied 🥸")
